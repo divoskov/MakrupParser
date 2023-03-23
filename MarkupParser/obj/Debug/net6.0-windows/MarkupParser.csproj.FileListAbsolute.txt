@@ -1,0 +1,17 @@
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.csproj.AssemblyReference.cache
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.mainForm.resources
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.csproj.GenerateResource.cache
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.AssemblyInfoInputs.cache
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.AssemblyInfo.cs
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.csproj.CoreCompileInputs.cache
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\bin\Debug\net6.0-windows\MarkupParser.exe
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\bin\Debug\net6.0-windows\MarkupParser.deps.json
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\bin\Debug\net6.0-windows\MarkupParser.runtimeconfig.json
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\bin\Debug\net6.0-windows\MarkupParser.dll
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\bin\Debug\net6.0-windows\MarkupParser.pdb
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.dll
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\refint\MarkupParser.dll
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.pdb
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\MarkupParser.genruntimeconfig.cache
+D:\Станок\2 сем\ИАД\MarkupParser\MarkupParser\obj\Debug\net6.0-windows\ref\MarkupParser.dll

@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Xml;
+
+public static Dictionary<string, List<string>> ParseXmlTableColumnsWithAttribute(string xmlFilePath, string tableTagName, string columnTagName, string attributeName)
+{
+    var xmlDoc = new XmlDocument();
+    xmlDoc.Load(xmlFilePath);
+
+    var tableNode = xmlDoc.GetElementsByTagName(tableTagName)[0];
+    var columnNodes = tableNode.SelectNodes($"//{columnTagName}");
+
+    var result = new Dictionary<string, List<string>>();
+
+    foreach (XmlNode columnNode in columnNodes)
+    {
+        var columnName = columnNode.Attributes[attributeName].Value;
+
+        if (!result.ContainsKey(columnName))
+        {
+            result.Add(columnName, new List<string>());
+        }
+
+        foreach (XmlNode cellNode in columnNode.ChildNodes)
+        {
+            result[columnName].Add(cellNode.InnerText);
+        }
+    }
+
+    return result;
+}
